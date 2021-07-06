@@ -10,7 +10,7 @@
   
   > * `Obrigado por Usar o Tutorial.` Não precisa dar os Créditos.
 
-# * Guia
+# Guia
 > * Comandos: 
 `module.exports.command = {
 name: "nome",
