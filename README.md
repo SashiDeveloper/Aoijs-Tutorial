@@ -9,3 +9,16 @@
   
   
   > * `Obrigado por Usar o Tutorial.` Não precisa dar os Créditos.
+
+# * Guia
+> * Comandos: 
+`module.exports.command = {
+name: "nome",
+code: `código` 
+}`
+
+> * Variables:
+`module.exports.variables = {
+var1: "valor1"
+}`
+
