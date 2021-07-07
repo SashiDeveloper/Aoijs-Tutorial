@@ -14,7 +14,7 @@
 > Comandos: 
 >  *module.exports.command = {
 > * name: "nome",
-> * code: `código`
+> * code: "código"
 }
 
 >  Variables:
