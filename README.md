@@ -1,3 +1,4 @@
+![icon](https://aoi.js.org/assets/images/aoijs-new.png)
 # Tutorial
 > * Esse tutorial irá ensinar o Básico sobre [Aoi.js](https://aoi.leref.ga)
 
@@ -25,4 +26,4 @@
 # 
 > * *Se algum erro ocorrer no código, faça uma issue!*
 
-![icon](https://aoi.js.org/assets/images/aoijs-new.png)
+
