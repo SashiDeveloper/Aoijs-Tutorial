@@ -24,3 +24,5 @@
 
 # 
 > * *Se algum erro ocorrer no código, faça uma issue!*
+
+![icon](https://aoi.js.org/assets/images/aoijs-new.png)
