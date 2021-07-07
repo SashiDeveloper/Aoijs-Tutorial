@@ -7,4 +7,4 @@ module.exports.command = {
   $color[RANDOM]`
 }
 
-// Comando muito bom
+// Api criada por mim e meu amigo
