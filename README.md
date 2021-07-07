@@ -12,7 +12,7 @@
 
 # Guia
 > Comandos: 
->  *module.exports.command = {
+>  * module.exports.command = {
 > * name: "nome",
 > * code: "código"
 > *  }
