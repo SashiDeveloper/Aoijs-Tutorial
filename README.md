@@ -22,3 +22,5 @@
 > * var1: "valor1"
 > *   }
 
+
+> * *Se algum erro ocorrer no código, faça uma issue!*
