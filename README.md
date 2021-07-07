@@ -12,13 +12,13 @@
 
 # Guia
 > Comandos: 
-`module.exports.command = {
-name: "nome",
-code: `código` 
-}´
+>  *module.exports.command = {
+> * name: "nome",
+> * code: `código`
+}
 
 >  Variables:
-`module.exports.variables = {
-var1: "valor1"
-}`
+> * module.exports.variables = {
+> * var1: "valor1"
+> * }
 
