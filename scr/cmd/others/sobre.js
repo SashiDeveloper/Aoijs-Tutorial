@@ -5,3 +5,5 @@ module.exports.command = {
   $color[BLUE]
   $addTimesTamp`
 }
+
+// Só deixei para testar se pegava os cmd
