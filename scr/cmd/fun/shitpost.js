@@ -6,3 +6,5 @@ module.exports.command = {
   $addTimesTamp
   $color[RANDOM]`
 }
+
+// Comando muito bom
