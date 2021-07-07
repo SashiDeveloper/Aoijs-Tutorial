@@ -3,7 +3,7 @@
 
 # Como usar?
 * Para usar, Abra o site [Replit](https://replit.com)
-> * Mude o Arquivo `.env.example` para `.env` e coloque o token depois do `TK=
+> * Mude o Arquivo `.env.example` para `.env` e coloque o token depois do `TK=`
 * Mude o Prefix da `Index.js` para o Seu Prefixo. EX: `!`
 
   
