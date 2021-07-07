@@ -13,7 +13,7 @@ const bot = new aoi.Bot({
     prefix: '!',
 });
 
-bot.onMessage()
+bot.onMessage() // Fazer o bot pegar as mensagem
 
 let dir = fs.readdirSync('./scr');
 
