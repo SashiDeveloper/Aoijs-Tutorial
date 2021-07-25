@@ -13,7 +13,7 @@
 
 # Guia
 ```js
-> Comandos: 
+ Comandos: 
  module.exports.command = {
  name: "nome",
  code: "código"
