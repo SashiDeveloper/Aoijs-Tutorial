@@ -12,18 +12,28 @@
   > * `Obrigado por Usar o Tutorial.` Não precisa dar os Créditos.
 
 # Guia
-```js
  Comandos: 
+```js
  module.exports.command = {
  name: "nome",
  code: "código"
   }
 ```
-```js
  Variables: 
+```js
+
  module.exports.variables = {
  var1: "valor1"
   }
+```
+ Status:
+```js
+
+module.exports.status = {
+text: 'Texto',
+type: 'WATCHING', // Ou LISTENING, STREAMING e etc
+time: 5
+}
 ```
 
 # 
