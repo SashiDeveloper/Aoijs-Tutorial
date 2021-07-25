@@ -12,18 +12,20 @@
   > * `Obrigado por Usar o Tutorial.` Não precisa dar os Créditos.
 
 # Guia
-> Comandos: 
+> Comandos: ```js
 >  * module.exports.command = {
 > * name: "nome",
 > * code: "código"
 > *  }
+```
 
->  Variables:
+>  Variables: ```js
 > * module.exports.variables = {
 > * var1: "valor1"
 > *   }
 
 # 
 > * *Se algum erro ocorrer no código, faça uma issue!*
+```
 
 
