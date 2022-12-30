@@ -4,7 +4,7 @@
 
 # Como usar?
 * Para usar, Abra o site [Replit](https://replit.com)
-> * Mude o Arquivo `.env.example` para `.env` e coloque o token depois do `TK=`
+> * Na replit, após criar o seu bot em Node.JS, procure por "Secrets" em Tools, por lá, coloque o nome da Key por 'TK', e o Valor será o Token do bot.
 * Mude o Prefix da `Index.js` para o Seu Prefixo. EX: `!`
 
   
