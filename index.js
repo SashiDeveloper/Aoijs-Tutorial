@@ -7,10 +7,9 @@ const fs = require('fs');
 
 
 const bot = new aoi.Bot({
-  sharding: true,
-    shardAmount: 1, // NOTA: Shards só funciona com bots +2k
     token: process.env.TK,
     prefix: '!',
+  intents: ["GUILDS", "GUILD_MESSAGES"],
 });
 
 bot.onMessage()
